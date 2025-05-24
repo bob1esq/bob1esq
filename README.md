@@ -22,5 +22,7 @@ Here are some ideas to get you started:-->
       
 - 📫 Ask me how:  909-354-7493; hopeless1bob@gmail.com; my name is Bob McCoy
 
+## License
 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
